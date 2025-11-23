@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #A6F6FF;
+}
+.adminbtn{
+    width: 100px;
+    height: 55px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    padding: 4px;
+    transform: translate(10px, 60px);
+    background-color: #6499E9;
+    color: #CBF3BB;
+    font-size: 13px;
+    font-weight: 550;
+}
+.adminbtn:active{
+    background-color: #CBF3BB;
+    color: #6499E9;
+}
