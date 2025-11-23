@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Admin Product</title>
-    <link rel="stylesheet" href="JerkoiStyle_1.css">
+    <link rel="stylesheet" href="Jerkoimid.css">
 </head>
 <body>
     <h1>Admin Product</h1>
