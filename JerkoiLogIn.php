@@ -8,6 +8,7 @@
 </head>
 <body>
     <form action="JerkoiVerifyUser.php" method="POST" autocomplete="OFF">
+        <center>
         <h1>Sign In</h1>
         <br>
         <table>
@@ -23,6 +24,7 @@
         <br>
         <button type="submit" class="Jerkoibtnsign" name="JerkoiLogIn">Log In</button>
         <button type="reset" class="Jerkoibtnsign">Clear</button>
+</center>
     </form>
     <br><br>
     <p id="message"></p>

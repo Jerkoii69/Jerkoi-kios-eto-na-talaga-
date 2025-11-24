@@ -8,6 +8,7 @@
 </head>
 <body>
     <form action="JerkoiInsert.php" method="POST" autocomplete="OFF">
+        <center>
         <h1>Sign Up</h1>
         <br>
         <table>
@@ -41,6 +42,7 @@
         <br>
         <a href=""><button type="submit" class="JerkoiSignUp" name="JerkoiSignUp">Register</button></a>
         <a href=""><button type="reset" class="JerkoiClear">Clear</button></a>
+</center>
     </form>
 </body>
 </html>

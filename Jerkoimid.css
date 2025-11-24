@@ -1,3 +1,19 @@
 body{
-    background-color: #860cacaf;
+    background-color: #f3d963af;
 }
+*{
+    font-family: monospace;
+    font-size: 30px;
+}
+button{
+   outline: solid #3a211a 1px;
+   height: 50px;
+   width: fit-content;
+   background-color: #96553c ;
+   color: #f3d963af;
+   padding: 15px;
+   margin-left: 10px;
+   border-radius: 10px 10px;
+   font-size: 15px;
+}
+
